@@ -11,9 +11,8 @@ I'm engineer based on Manaus - Amazonas. Junior Blockchain, Solidity and Web3 de
 - OpenZeppelin
 - EVM Blockchain
 
-<h3> 👀 I’m interested in: </h3>
+<h3> 💞️ I’m looking to collaborate on: </h3>
 
-- Deepen my knowledge in smart contract and web3 development
 - DAOs
 - NFTs
 - DeFi protocols
@@ -23,9 +22,13 @@ I'm engineer based on Manaus - Amazonas. Junior Blockchain, Solidity and Web3 de
 
 - TypeScript
 - APIs
-- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+<h3> 📫 How to reach me: </h3>
+
+- 📧 E-mail: ianflexa@gmail.com
+- 💬 Telegram: <a target= "_blank" href="https://t.me/ianflexa">@ianflexa</a>
+- 📘 Twiiter: <a target= "_blank" href="https://twitter.com/ianflexa">@ianflexa</a>
+- 🖇️ LinkedIn: <a target= "_blank" href="https://www.linkedin.com/in/ian-flexa-5438b4158/">@ianflexa</a>
 
 <!---
 ianflexa/ianflexa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
