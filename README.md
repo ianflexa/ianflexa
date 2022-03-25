@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m ianflexa </h2>
+<h2> 👋 Hi, I’m Ian flexa </h2>
 
 I'm engineer based on Manaus - Amazonas. Junior Blockchain, Solidity and Web3 developer. I'm in DeFi since 2020, I have a big knowledge about the fundamentals of blockchain and DeFi protocols (UNISWAP, AAVE, COMPOUND, CURVE, CHAINLINK, MAKERDAO, YEARN.FINANCE). I started learn programming developing in 2021 and I'm here too keep learning and contribute!
 <h3> Languanges and Tools </h3>
