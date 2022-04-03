@@ -22,6 +22,7 @@ I'm engineer based on Manaus - Amazonas. Junior Blockchain, Solidity and Web3 de
 
 - TypeScript
 - APIs
+- Foundry
 
 <h3> 📫 How to reach me: </h3>
 
